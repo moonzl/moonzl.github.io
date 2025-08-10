@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi, I'm moonzl. I'm a data scientist/machine learning engineer at a mid stage startup (not US based). My area of expertise is deep learning. I'm particuarly interested in multimodal classification and embedding models. I also surf, boulder, and run (all badly).
