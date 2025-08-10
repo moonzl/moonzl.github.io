@@ -30,3 +30,8 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+#### An equation
+$$
+\cos\left(A\right)=\frac{b^2+c^2-a^2}{2\cdot b\cdot c}
+$$
