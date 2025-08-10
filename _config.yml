@@ -20,6 +20,9 @@ description: "whatever I feel like writing about" # This will show up in places 
 #########################################################################################
 theme: "minima"
 
+minima:
+  skin: dark
+  
 rss: rss
 
 kramdown:
